@@ -1,3 +1,3 @@
 import requests
-res = requests.get('http://www.google.com')
+res = requests.get('http://www.baidu.com')
 print(res.status_code)
